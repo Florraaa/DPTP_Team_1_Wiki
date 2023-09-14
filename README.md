@@ -5,12 +5,14 @@ This document makes it easy to navigate resources and document locations for Tea
 
 # Weekly Meeting
 ## Internal Meeting
-**Time**: 1PM on every Wednesday
+**Time**: 1 PM on every Wednesday
+
 **Location**: [Zoom Link](https://berkeley.zoom.us/j/92093130873)
 
 ## Client Meeting
-**Time**: TBD (11AM EST on every Friday)
+**Time**: TBD (11 AM PST on every Friday)
 
+---
 
 # Team Documents and Links
 ## [Team 1 Google Drive](https://drive.google.com/drive/folders/1PDqxZtpeOi813AJrmDiY6HD1R1iOvQEK)
@@ -22,6 +24,7 @@ Folder structure:
 - **Resources**: Important information documents for the project
 -   **From Client**: documents from client emails
 
+---
 
 # ENGIN 183/283
 **[Team 1 Figjam](https://www.figma.com/file/lrlvVPdnpMuoxEDLLUpcPp/Team-1---Cascades?type=whiteboard&node-id=0-1&t=8WiBsdKia6Hst7si-0)**
