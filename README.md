@@ -24,9 +24,9 @@ Folder structure:
 
 
 # ENGIN 183/283
-[**Team 1 Figjam**]([url](https://www.figma.com/file/lrlvVPdnpMuoxEDLLUpcPp/Team-1---Cascades?type=whiteboard&node-id=0-1&t=8WiBsdKia6Hst7si-0)https://www.figma.com/file/lrlvVPdnpMuoxEDLLUpcPp/Team-1---Cascades?type=whiteboard&node-id=0-1&t=8WiBsdKia6Hst7si-0)
+[**Team 1 Figjam**](https://www.figma.com/file/lrlvVPdnpMuoxEDLLUpcPp/Team-1---Cascades?type=whiteboard&node-id=0-1&t=8WiBsdKia6Hst7si-0)
 
-[**Inject**]([url](https://inject.theschoolab.com/signin)https://inject.theschoolab.com/signin) for submitting School Lab assignments
+[**Inject**](https://inject.theschoolab.com/signin) for submitting School Lab assignments
 
 [**bCourse - ENGIN183**](https://bcourses.berkeley.edu/courses/1529574): self-explainatory 
 [**bCourse - ENGIN283**](https://bcourses.berkeley.edu/courses/1529574): self-explainatory 
