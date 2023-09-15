@@ -19,10 +19,10 @@ This document makes it easy to navigate resources and document locations for Tea
 Folder structure: 
 - **Meeting Notes**: notes for weekly client meetings and internal meetings (if applicable)
 - **Misc Documents**: project management and any other documentation
-  - **[CascadesCollaborativePlan](https://docs.google.com/document/d/1w46QnvP1ylPyCG71r593D_U1WQ6PHnUq/edit)**: reference this document for team roles, methods of communication, client communication
+    - **[CascadesCollaborativePlan](https://docs.google.com/document/d/1w46QnvP1ylPyCG71r593D_U1WQ6PHnUq/edit)**: reference this document for team roles, methods of communication, client communication
 - **Slide Decks**: weekly _Google Slides_ for client meeting presentations
 - **Resources**: Important information documents for the project
-  - **From Client**: documents from client emails
+    - **From Client**: documents from client emails
 
 ---
 
