@@ -5,7 +5,7 @@ This document makes it easy to navigate resources and document locations for Tea
 
 # Weekly Meeting
 ## Internal Meeting
-**Time**: 1 PM on every Wednesday
+**Time**: 12:30 PM on every Wednesday
 
 **Location**: [Zoom Link](https://berkeley.zoom.us/j/92093130873)
 
