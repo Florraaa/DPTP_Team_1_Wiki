@@ -5,12 +5,13 @@ This document makes it easy to navigate resources and document locations for Tea
 
 # Weekly Meeting
 ## Internal Meeting
-**Time**: 12:30 PM on every Wednesday
+**Time**: 12:30 PM PST on every Wednesday
 
 **Location**: [Zoom Link](https://berkeley.zoom.us/j/92093130873)
 
 ## Client Meeting
-**Time**: TBD (11 AM PST on every Friday)
+**Time**: 8:00 AM PST on every Friday
+**Location**: [Teams Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDgxZTU3MDYtNTc4ZC00MmJhLTk5NjEtZDg0OGNiNmNjNGM1%40thread.v2/0?context=%7b%22Tid%22%3a%22a866874a-d0e3-4a03-a79d-4c893ab51296%22%2c%22Oid%22%3a%224eb4c4e8-8cad-4cc8-8ddd-e1bd4dda7628%22%7d)
 
 ---
 
