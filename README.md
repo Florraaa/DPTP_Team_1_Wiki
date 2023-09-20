@@ -10,6 +10,7 @@ This is NOT supposed to store any confidential documents from the client.
 **Interviews**
 - [ ] Each team member: 2 interviews; ask others to join for note taking
 - [ ] Talk to grocery store consumers, food store employees, farmers, suppliers, recycling & composting, experts
+- [ ] Update on [Figjam](https://www.figma.com/file/lrlvVPdnpMuoxEDLLUpcPp/Team-1---Cascades?type=whiteboard&t=YRRvHwzjg91YHnhu-6)
 
 **Desk Research**
 - [ ] Find 5 research papers related to the topic per person
