@@ -1,17 +1,26 @@
 # Wiki - Deplastify The Planet
-Last modified, 9/14/2023
+_Last modified, 9/19/2023_
 
-This document makes it easy to navigate resources and document locations for Team 1. This is NOT supposed to store any confidential documents from the client. 
+This is NOT supposed to store any confidential documents from the client. 
 
-# Sep.19 Actionable Items
+---
+
+# Actionable Items
+## Due Sep.26 (Tue)
 **Interviews**
 - [ ] Each team member: 2 interviews; ask others to join for note taking
-- [ ] Ask Cascades who we can interview **on Friday**
 - [ ] Talk to grocery store consumers, food store employees, farmers, suppliers, recycling & composting, experts
 
 **Desk Research**
 - [ ] Find 5 research papers related to the topic per person
 
+## Due 12:30 PM PST on Sep.20
+- [ ] Prepare your own questions piror to the internal zoom meeting!
+
+## Cascades meeting on Sep.22
+- [ ] Ask Cascades who we can interview 
+
+---
 
 # Weekly Meeting
 ## Internal Meeting
