@@ -6,7 +6,7 @@ This is NOT supposed to store any confidential documents from the client.
 ---
 
 # Actionable Items
-## Due Sep.26 (Tue)
+## Due 2 PM on Sep.26 (before next class)
 **Interviews**
 - [ ] Each team member: 2 interviews; ask others to join for note taking
 - [ ] Talk to grocery store consumers, food store employees, farmers, suppliers, recycling & composting, experts
