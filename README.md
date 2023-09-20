@@ -6,6 +6,13 @@ This is NOT supposed to store any confidential documents from the client.
 ---
 
 # Actionable Items
+
+## Due 12:30 PM PST on Sep.20
+- [ ] Prepare your own questions piror to the internal zoom meeting!
+
+## Cascades meeting on Sep.22
+- [ ] Ask Cascades who we can interview 
+
 ## Due 2 PM on Sep.26 (before next class)
 **Interviews**
 - [ ] Each team member: 2 interviews; ask others to join for note taking
@@ -14,12 +21,6 @@ This is NOT supposed to store any confidential documents from the client.
 
 **Desk Research**
 - [ ] Find 5 research papers related to the topic per person
-
-## Due 12:30 PM PST on Sep.20
-- [ ] Prepare your own questions piror to the internal zoom meeting!
-
-## Cascades meeting on Sep.22
-- [ ] Ask Cascades who we can interview 
 
 ---
 
