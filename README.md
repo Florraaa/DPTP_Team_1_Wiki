@@ -3,6 +3,16 @@ Last modified, 9/14/2023
 
 This document makes it easy to navigate resources and document locations for Team 1. This is NOT supposed to store any confidential documents from the client. 
 
+# Sep.19 Actionable Items
+**Interviews**
+- [ ] Each team member: 2 interviews; ask others to join for note taking
+- [ ] Ask Cascades who we can interview **on Friday**
+- [ ] Talk to grocery store consumers, food store employees, farmers, suppliers, recycling & composting, experts
+
+**Desk Research**
+- [ ] Find 5 research papers related to the topic per person
+
+
 # Weekly Meeting
 ## Internal Meeting
 **Time**: 12:30 PM PST on every Wednesday
